@@ -4,7 +4,7 @@ The Internal combustion(IC) engine runs on three different cycles namely Otto, D
 1. Same heat input and compression ratio
 2. Same maximum pressure and heat supplied
 
-
+\n
 For this task we will compare the PV diagram of the otto and diesel cycle.
 ##### We will find the work done in each cycle.
 ##### The cycle with higher work done has the highest efficiency under constant heat input.
